@@ -1,5 +1,5 @@
 # About
-following guides from "Programming with Mosh" at https://www.youtube.com/watch?v=k5E2AVpwsko
+following guides from "Programming with Mosh" at https://www.youtube.com/watch?v=k5E2AVpwsko (video mainly dedicated to observation of typescript, and in the end there is some practice with @Components and @Injectable services)  
 
 # NgTutorial
 
